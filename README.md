@@ -80,7 +80,7 @@ Menampilkan data seluruh peserta yang telah mendaftar.
 ### 8. Filter Peserta
 ![Filter Peserta](tampilan-screenshoot/FilterPeserta.png)
 
-Fitur untuk memfilter data berdasarkan skema.
+Fitur untuk memfilter data berdasarkan skema dan dapat di export menjadi file excel
 
 ---
 
