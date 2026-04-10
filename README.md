@@ -9,9 +9,12 @@ Aplikasi ini merupakan sistem berbasis web yang digunakan untuk melakukan pendaf
 - 📝 Form pendaftaran peserta
 - ✅ Halaman konfirmasi setelah pendaftaran berhasil
 - 🖨️ Cetak bukti pendaftaran
-- 👨‍💼 Halaman admin untuk melihat data peserta
-- 🔍 Filter data berdasarkan skema / kejuruan
-- 📊 Export data peserta ke Excel
+- 👨‍💼 Halaman login admin
+- 📋 Manajemen data peserta
+- 🔍 Filter data berdasarkan skema
+- ➕ Tambah & edit skema
+- ❌ Hapus skema
+- 📊 Export data ke Excel
 
 ---
 
@@ -20,30 +23,78 @@ Aplikasi ini merupakan sistem berbasis web yang digunakan untuk melakukan pendaf
 - PHP
 - MySQL
 - HTML, CSS, JavaScript
-- Bootstrap (opsional)
 
 ---
 
 ## 📷 Tampilan Aplikasi
 
-### 1. Halaman Form Pendaftaran
-![Form Pendaftaran](tampilan-screenshoot/form.png)
+### 1. Landing Page
+![Landing Page](tampilan-screenshoot/LandingPage.png)
 
-Menampilkan form untuk menginput data peserta seperti nama, nomor HP, dan skema yang dipilih.
-
----
-
-### 2. Halaman Berhasil Daftar
-![Berhasil](tampilan-screenshoot/berhasil.png)
-
-Menampilkan notifikasi bahwa pendaftaran berhasil serta menyediakan opsi untuk mencetak bukti pendaftaran.
+Halaman awal aplikasi yang ditampilkan kepada pengguna.
 
 ---
 
-### 3. Halaman Admin
-![Admin](tampilan-screenshoot/admin.png)
+### 2. Form Pendaftaran
+![Form Daftar](tampilan-screenshoot/FormDaftar.png)
 
-Menampilkan data seluruh peserta yang telah mendaftar, lengkap dengan fitur filter berdasarkan skema dan opsi export ke Excel.
+Form untuk menginput data peserta seperti nama, nomor HP, dan skema.
+
+---
+
+### 3. Berhasil Daftar
+![Berhasil Daftar](tampilan-screenshoot/BerhasilDaftar.png)
+
+Menampilkan notifikasi bahwa pendaftaran berhasil.
+
+---
+
+### 4. Cetak Bukti Pendaftaran
+![Cetak Bukti](tampilan-screenshoot/CetakBuktiDaftar.png)
+
+Peserta dapat mencetak bukti pendaftaran.
+
+---
+
+### 5. Login Admin
+![Login Admin](tampilan-screenshoot/LoginAdmin.png)
+
+Halaman login untuk admin.
+
+---
+
+### 6. Halaman Admin
+![Halaman Admin](tampilan-screenshoot/HalamanAdmin.png)
+
+Menampilkan dashboard admin.
+
+---
+
+### 7. Data Peserta
+![Data Peserta](tampilan-screenshoot/DataPeserta.png)
+
+Menampilkan data seluruh peserta yang telah mendaftar.
+
+---
+
+### 8. Filter Peserta
+![Filter Peserta](tampilan-screenshoot/FilterPeserta.png)
+
+Fitur untuk memfilter data berdasarkan skema.
+
+---
+
+### 9. Tambah & Edit Skema
+![Tambah Edit Skema](tampilan-screenshoot/TambaEditSkema.png)
+
+Digunakan untuk menambah dan mengedit data skema.
+
+---
+
+### 10. Hapus Skema
+![Hapus Skema](tampilan-screenshoot/HapusSkema.png)
+
+Fitur untuk menghapus data skema.
 
 ---
 
